@@ -1,10 +1,12 @@
 using Person.Routes;
+using Person.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Adiciona os serviços padrão para Swagger
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddScoped<PersonContext>();
 
 var app = builder.Build();
 
