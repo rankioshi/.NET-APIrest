@@ -89,7 +89,7 @@ Body: {
 
 ## Contribuição
 
-Sinta-se à vontade para abrir issues ou pull requests!
+Sinta-se à vontade para abrir issues ou pull requests.
 
 ---
 
