@@ -1,6 +1,8 @@
 
 # .NET-APIrest
 
+<img src="imgs/image1.png"/>
+
 API RESTful desenvolvida em .NET para gerenciamento de pessoas, utilizando Entity Framework e SQLite.
 
 ---
@@ -64,19 +66,15 @@ Body: {
 
 ## Imagens do Projeto
 
-**Swagger UI**
-
-<img src="https://cdn.discordapp.com/attachments/1229834827721605152/1370111532045959329/image.png?ex=681e4f4c&is=681cfdcc&hm=9f9e1c117e706ceec3ef1bab398db8b0b969c81c717b444334e050fd6e1befd6&"  />
-
 **Exemplo de Requisição no Swagger**
->
-> <img src="https://cdn.discordapp.com/attachments/1229834827721605152/1370113122618179595/image.png?ex=681e50c7&is=681cff47&hm=131151f8330bcfde35b4a07bec251fbfae0421f4f35643a433745014fec8e6e1&"  />
 
-<img src="https://cdn.discordapp.com/attachments/1229834827721605152/1370113157007409222/image.png?ex=681e50d0&is=681cff50&hm=1252f565ff508f0680e8962dd70f9bcac8ae2df2f503d5b5ca1fac755b340bd5&"  />
+<img src="imgs/image2.png"/>
+
+<img src="imgs/image3.png"/>
 
 **Confirmação no Get**
 
-<img src="https://media.discordapp.net/attachments/1229834827721605152/1370113287441875045/image.png?ex=681e50ef&is=681cff6f&hm=ebddb6b3996d143d7afdb05bdcb8d63eb54d0a3f3aa2d65a33939084ff7479bc&=&format=webp&quality=lossless&width=1554&height=864&"  />
+<img src="imgs/image4.png"/>
 ---
 
 ## Observações
